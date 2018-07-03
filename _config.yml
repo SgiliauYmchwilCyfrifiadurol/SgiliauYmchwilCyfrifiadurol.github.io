@@ -1,0 +1,13 @@
+# Site settings
+title: Sgiliau Ymchwil Ailgynhyrchiadwy
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+syntax_highlighter: rouge
+
+collections:
+    pynciau:
+        output: true
