@@ -8,6 +8,8 @@ layout: default
 2. [Ailgynhyrchadwyedd](/ailgynhyrchadwyedd/)
 3. [Ymchwil Agored](/ymchwilagored/)
 4. [Awtomeiddio](/awtomeiddio/)
+  + [Y 'Command Line' yn -nix](/awtomeiddio/commandline/)
+  + [Y 'Command Prompt' yn Windows](/awtomeiddio/commandprompt/)
 5. [Ymarferion codio da](/ymarferionda/)
 6. [Strwythuro LaTeX](/strwythurolatex/)
 7. [Ysgrifennu Meddalwedd](/meddalwedd/)
