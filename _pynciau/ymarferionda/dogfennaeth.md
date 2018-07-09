@@ -96,7 +96,7 @@ ysgrifennir y 'docstring' fel llinell gyntaf y ffwythiant:
 {% highlight python %}
 def f(n):
     """
-    Swm yr n rhif syntaf
+    Swm yr n rhif cyntaf
 
     Dadleuon mewnbwn:
     n -- cyfanrif
