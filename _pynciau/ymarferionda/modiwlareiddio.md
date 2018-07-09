@@ -4,28 +4,28 @@ title: Modiwlareiddio
 permalink: ymarferionda/modiwlareiddio/
 ---
 
-Yn union fel darllen rhyddiaeth Cymraeg, mae un paragraph hir a dwys o cod yn
+Yn union fel darllen rhyddiaith Cymraeg, mae un paragraff hir a dwys o god yn
 anodd iawn i'w ddarllen.
-Felly dylen ni osgoi blociau mawr o god, a lle'n bosib torri'r cod lawr i fewn i
+Felly dylen ni osgoi blociau mawr o god, a lle'n bosib torri'r cod lawr i mewn i
 darnau llai sy'n haws i'w ddarllen.
 
-Mae mantais ychwanegol am hyn hefyd: gall unrhyw darn bach o cod cael ei
+Mae mantais ychwanegol am hyn hefyd: gall unrhyw ddarn bach o god cael ei
 ailddefnyddio.
-Mae hwn yn golygu does dim angen ailysgrifennu unrhyw cod a ddefnyddir mwy nag
-unwaith, sy'n lleihau unrhyw siawns o cael gwallau neu camgymeriadau.
+Mae hwn yn golygu does dim angen ailysgrifennu unrhyw god a ddefnyddir mwy nag
+unwaith, sy'n lleihau unrhyw siawns o gael gwallau neu gamgymeriadau.
 
-Edrychwn ar ddwy ffordd o torri lan cod: defnyddio ffwythiannau a defnyddio
+Edrychwn ar ddwy ffordd o dorri lan cod: defnyddio ffwythiannau a defnyddio
 modiwlau.
 Mae rhai ieithoedd rhaglennu (gan gynnwys Python) yn galluogi ysgrifennu
 dosbarthiadau a gwrthrychau.
 Fe elwir hyn yn 'rhaglennu gwrthrych-gyfeiriadol' ("object-orientated
-programming"), sy'n ffordd pellach o torri lan cod, ond ni fyddwn yn edrych arni
+programming"), sy'n ffordd bellach o dorri lan cod, ond ni fyddwn yn edrych arni
 yn y tiwtorial yma.
 
 
 # Ffwythiannau
 
-Yn Python rydym yn diffinio ffwythiant trwy defnyddio'r datganiad `def`.
+Yn Python rydym yn diffinio ffwythiant trwy ddefnyddio'r datganiad `def`.
 Er enghraifft:
 
 {% highlight python %}
@@ -42,15 +42,15 @@ Er enghraifft:
 
 Maent yn ddefnyddiol er mwyn osgoi ailadrodd cod, ac felly osgoi ailadrodd
 camgymeriadau.
-Ond unwhaith ysgrifennwn y cod `(x + 3) ** 2`, ond fe'i ddefnyddiwyd tair
+Ond unwaith ysgrifennwn y cod `(x + 3) ** 2`, ond fe'i defnyddiwyd tair
 gwaith.
-Mae pŵer ffwythiannu yn dod yn amlwg os yw'r ffwythiant yn un cymleth a'i
+Mae pŵer ffwythiannau yn dod yn amlwg os yw'r ffwythiant yn un cymhleth a'i
 defnyddiwyd nifer o weithiau.
 Ar ben hyn, mae defnyddio ffwythiannau yn fwy darllenadwy, yn enwedig os
 defnyddiwn enw ystyrlon ar eu cyfer.
 
 Ystyriwch y cod isod.
-Gweithrediad o algorithm i canfod gwreiddiau polynomial yw hi.
+Gweithrediad o algorithm i ganfod gwreiddiau polynomial yw hi.
 
 {% highlight python linenos %}
 uchaf = 0
@@ -74,8 +74,8 @@ while abs(poly_canol) > goddefiant:
 print(canol)
 {% endhighlight %}
 
-Un bloc mawr o cod yw hon, gyda nifer fawr o llinellau wedi'u ailadrodd.
-Hyd yn oed gyda enwau newidynnau ystyrlon mae'n anodd iawd deall beth mae'r cod
+Un bloc mawr o god yw hon, gyda nifer fawr o linellau wedi'u hailadrodd.
+Hyd yn oed gydag enwau newidynnau ystyrlon mae'n anodd iawn deall beth mae'r cod
 yn ei wneud.
 
 Sylwch:
@@ -88,7 +88,7 @@ Bydd y cod yma yn berffaith ar gyfer ffwythiant;
 Dylai ffwythiannau **gwneud un peth, ac un peth yn dda**.
 Mae enwi ffwythiannau yn helpu ni
 
-Ailysgrifennwn y cod gan ysgrifennu ffwythiannau ar gyfer y cod sy'n ailadrodd:
+Ail-ysgrifennwn y cod gan ysgrifennu ffwythiannau ar gyfer y cod sy'n ailadrodd:
 
 {% highlight python linenos %}
 def polynomial(x):
@@ -125,25 +125,25 @@ def gwraidd(polynomial, isaf, uchaf, goddefiant):
 print(gwraidd(polynomial, 0, 1, 0.0001))
 {% endhighlight %}
 
-Mae'r cod yma yn haws i'w ddarllen, nad yw'n ailadrodd unrhyw cod, a gellir ei
-defnyddio ar gyfer unrhyw paramedrau (unrhyw polynomial, cyfwng a goddefiant).
-Y fordd yma, mae'r cod yn ailgynhyrchiadwy oherwydd gall ymchwilwyr eraill:
+Mae'r cod yma yn haws i'w ddarllen, nad yw'n ailadrodd unrhyw god, a gellir ei
+defnyddio ar gyfer unrhyw baramedrau (unrhyw bolynomial, cyfwng a goddefiant).
+Y ffordd yma, mae'r cod yn ailgynhyrchiadwy oherwydd gall ymchwilwyr eraill:
 
 1. Darllen a deall y cod;
-2. Ailddefnyddio unrhyw rhan o'r cod;
-3. Defnyddio'r cod ar gyfer problemmau gwahanol.
+2. Ailddefnyddio unrhyw ran o'r cod;
+3. Defnyddio'r cod ar gyfer problemau gwahanol.
 
 
 # Modiwlau
 
-Modiwlau yw sgriptiau eraill rydym yn fewnfudo i fewn i'n cod er mwyn ei
+Modiwlau yw sgriptiau eraill rydym yn mewnfudo i mewn i'n cod er mwyn ei
 ddefnyddio mewn cyd-destun arall.
-Mae'r ffordd o trefnu cod felly nad yw unrhyw un sgript un anniben gan gynnwys
-pob darn o cod a fu'n rhedeg.
-Yn amal bydd un modiwl yn cynnwys nifer o ffwythiannau mewn un thema, a fydd yn
-defnyddiol mewn nifer o gyd-destynnau.
+Mae'r ffordd o drefnu cod felly nad yw unrhyw un sgript un anniben gan gynnwys
+pob darn o god a fu'n rhedeg.
+Yn aml bydd un modiwl yn cynnwys nifer o ffwythiannau mewn un thema, a fydd yn
+defnyddiol mewn nifer o gyd-destunau.
 
-Er enghraifft, gallwn ysgrifennu un sgript o'r enw `ystagegaeth.py` sy'n cynnwys
+Er enghraifft, gallwn ysgrifennu un sgript o'r enw `ystadegaeth.py` sy'n cynnwys
 y ffwythiannau canlynol:
 
 {% highlight python linenos %}
@@ -160,9 +160,9 @@ def canolrif(rhestr):
 		return cymder(canolrifau)
 {% endhighlight %}
 
-Nawr os ydyn ni mewn Python (trwy defnyddio'r 'command line / command prompt'
+Nawr os ydyn ni mewn Python (trwy ddefnyddio'r 'command line / command prompt'
 neu yn ysgrifennu sgript arall) o fewn yr un ffolder a'r sgript
-`ystadegaeth.py`, gallwn cael mynediad i'r ffwythiannau yma:
+`ystadegaeth.py`, gallwn gael mynediad i'r ffwythiannau yma:
 
 {% highlight python %}
 >>> import ystadegaeth
@@ -175,10 +175,10 @@ neu yn ysgrifennu sgript arall) o fewn yr un ffolder a'r sgript
 3
 {% endhighlight %}
 
-Gall hwn tacluso ein cod a, trwy gwneud yn siwr pob enwau ystyrlon i popeth,
+Gall hwn tacluso ein cod a, trwy wneud yn siŵr pob enwau ystyrlon i bopeth,
 cynyddu ei darllenadwyedd.
-Fel arfer bydd codwyr yn gwneud defnydd helaeth o modiwlau mae pobl eraill
+Fel arfer bydd codwyr yn gwneud defnydd helaeth o fodiwlau mae pobl eraill
 wedi'u hysgrifennu, ac efallai byddwn ni fel ymchwilwyr yn ysgrifennu modiwlau y
 bydd ymchwilwyr eraill yn eu defnyddio.
-Yn y fordd yma, yn ogystal â helpu ni darllen y cod a lleihau camgymeriadau, mae
-modiwlaredd yn cyfrannu tuag at ailgynhyrchadwyedd ein gwaith.
+Yn y ffordd yma, yn ogystal â helpu ni darllen y cod a lleihau camgymeriadau,
+mae modiwlaredd yn cyfrannu tuag at ailgynhyrchadwyedd ein gwaith.
