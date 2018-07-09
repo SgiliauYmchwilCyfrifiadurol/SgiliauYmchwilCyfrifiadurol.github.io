@@ -182,3 +182,13 @@ wedi'u hysgrifennu, ac efallai byddwn ni fel ymchwilwyr yn ysgrifennu modiwlau y
 bydd ymchwilwyr eraill yn eu defnyddio.
 Yn y ffordd yma, yn ogystal â helpu ni darllen y cod a lleihau camgymeriadau,
 mae modiwlaredd yn cyfrannu tuag at ailgynhyrchadwyedd ein gwaith.
+
+# Cyfeiriadau
+
++ "Research software development", Vincent Knight,
+  
+  [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
++ "Modular Programming and Modules",
+  
+  [https://www.python-course.eu/modules_and_modular_programming.php](https://www.python-course.eu/modules_and_modular_programming.php)

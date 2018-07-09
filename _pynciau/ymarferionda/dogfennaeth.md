@@ -180,3 +180,10 @@ Nawr gwelwn fod y cod yn canfod ffactorau rhyw rif, trwy lwpio trwy holl
 ffactorau potensial ac ychwanegu'r ffactorau go iawn i mewn i restr o ffactorau.
 Mae dewis enwau newidynnau a ffwythiannau sy'n ystyrlon yn gallu trawsnewid cod
 amwys i mewn i ddogfen ddealladwy.
+
+
+# Cyfeiriadau
+
++ "Research software development", Vincent Knight,
+
+  [https://vknight.org/rsd/](https://vknight.org/rsd/)
