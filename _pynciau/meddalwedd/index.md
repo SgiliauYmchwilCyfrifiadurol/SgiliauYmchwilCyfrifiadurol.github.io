@@ -4,8 +4,7 @@ title: Ysgrifennu Meddalwedd
 permalink: meddalwedd/
 ---
 
-+ [Meddalwedd Ar Gael](/meddalwedd/argael/)
++ [Dogfennaeth Meddalwedd](/meddalwedd/dogfennaeth/)
++ [Fersiynnau](/meddalwedd/fersiynnau/)
 + [Meddalwedd Dyfynadwy](/meddalwedd/cyfeirio/)
 + [Trwyddedau](/meddalwedd/trwyddedau/)
-+ [Fersiynnau](/meddalwedd/fersiynnau/)
-+ [Dogfennaeth Meddalwedd](/meddalwedd/dogfennaeth/)

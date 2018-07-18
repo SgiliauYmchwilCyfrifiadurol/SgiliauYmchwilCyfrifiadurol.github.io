@@ -4,7 +4,7 @@ layout: default
 
 ### Cynnwys
 
-1. [Cyn dechrau..](/cyndechrau/)
+1. [Cyn dechrau...](/cyndechrau/)
 2. [Ailgynhyrchadwyedd](/ailgynhyrchadwyedd/)
 3. [Ymchwil Agored](/ymchwilagored/)
 4. [Awtomeiddio](/awtomeiddio/)
@@ -17,11 +17,10 @@ layout: default
   + [Y Triongl Ymaferion Da](/ymarferionda/triongl/)
 6. [Strwythuro LaTeX](/strwythurolatex/)
 7. [Ysgrifennu Meddalwedd](/meddalwedd/)
-  + [Meddalwedd Ar Gael](/meddalwedd/argael/)
+  + [Dogfennaeth Meddalwedd](/meddalwedd/dogfennaeth/)
+  + [Fersiynnau](/meddalwedd/fersiynnau/)
   + [Meddalwedd Dyfynadwy](/meddalwedd/cyfeirio/)
   + [Trwyddedau](/meddalwedd/trwyddedau/)
-  + [Fersiynnau](/meddalwedd/fersiynnau/)
-  + [Dogfennaeth Meddalwedd](/meddalwedd/dogfennaeth/)
 8. [Rheolaeth Fersiwn gyda Git](/rheolaethfersiwn/)
 9. [Cydweithio gyda GitHub](/cydweithio/)
 10. [Cyfeiriadau](/cyfeiriadau/)
