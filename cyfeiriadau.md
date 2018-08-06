@@ -36,3 +36,10 @@ permalink: cyfeiriadau/
   
   [https://choosealicense.com/licenses/](https://choosealicense.com/licenses/)
 
++ "Semantic Versioning: Why You Should Be Using it", Hugo Giraudel,
+  
+  [https://www.sitepoint.com/semantic-versioning-why-you-should-using/](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+
++ "Keep a changelog", Olivier Lacan,
+  
+  [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/)
