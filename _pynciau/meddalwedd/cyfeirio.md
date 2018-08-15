@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meddalwedd Dyfynadwy
+title: 20. Ysgrifennu Meddalwedd - Meddalwedd Cyfeiriadwy
 permalink: meddalwedd/cyfeirio/
 ---
 
@@ -24,7 +24,7 @@ Mae cyfeirio at y meddalwedd a ddefnyddwyd mewn darn o waith hefyd yn hanfodol
 ar gyfer ailgynhyrchadwyedd gwaith: ni all ymchwilwyr arall ailgynhyrchu'r
 gwaith os nad ydynt yn gwybod union pa meddalwedd a ddefnyddwyd.
 
-I sicrhai bod ein meddalwedd ni yn dyfynadwy (citable), mae yna cwpl o pethau
+I sicrhai bod ein meddalwedd ni yn cyfeiriadwy (citable), mae yna cwpl o pethau
 allwn rhaid i ni meddwl amdanynt:
 
 1. **Credyd:** Dylai cyfeiriadau meddalwedd rhoi credyd ysgolheigaidd, a
@@ -44,7 +44,7 @@ ei hun, a'i ddogfennaeth, data, metadata ac unrhyw deunyddiau defnyddiol eraill.
 o'r meddalwedd
 
 
-# Sut i wneud meddalwedd yn dyfynadwy
+# Sut i wneud meddalwedd yn cyfeiriadwy
 
 I sicrhau bod cyfeiriadau meddalwedd yn **unigryw**, a bod ganddo
 **dyfalbarhad**, **hygyrchedd** a **phenodoldeb**, rhaid *archifo*'r meddalwedd.

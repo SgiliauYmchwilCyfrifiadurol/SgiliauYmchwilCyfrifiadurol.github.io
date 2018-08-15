@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Y 'Command Line' yn -nix
+title: 7. Sgiliau Awtomeiddio - Y 'Command Line' yn -nix
 permalink: awtomeiddio/commandline/
 ---
 

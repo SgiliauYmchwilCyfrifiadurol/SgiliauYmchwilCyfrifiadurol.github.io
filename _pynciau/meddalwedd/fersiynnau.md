@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fersiynnau
+title: 19. Ysgrifennu Meddalwedd - Fersiynnau
 permalink: meddalwedd/fersiynnau/
 ---
 

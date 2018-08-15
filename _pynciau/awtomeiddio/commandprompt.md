@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Y 'Command Prompt' yn Windows
+title: 8. Sgiliau Awtomeiddio - Y 'Command Prompt' yn Windows
 permalink: awtomeiddio/commandprompt/
 ---
 

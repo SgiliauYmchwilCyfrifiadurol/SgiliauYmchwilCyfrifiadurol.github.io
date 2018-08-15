@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trwyddedau
+title: 21. Ysgrifennu Meddalwedd - Trwyddedau
 permalink: meddalwedd/trwyddedau/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dogfennaeth
+title: 10. Ymarferion Codio Da - Dogfennaeth
 permalink: ymarferionda/dogfennaeth/
 ---
 

@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Rheolaeth Fersiwn gyda Git
+title: 16. Rheolaeth Fersiwn gyda Git
 permalink: rheolaethfersiwn/
 ---

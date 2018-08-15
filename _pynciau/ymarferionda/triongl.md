@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Y Triongl Ymaferion Da
+title: 13. Ymarferion Codio Da - Y Triongl Ymaferion Da
 permalink: ymarferionda/triongl/
 ---
 

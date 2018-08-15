@@ -1,8 +1,5 @@
 ---
 layout: post
-title: Awtomeiddio
+title: 6. Sgiliau Awtomeiddio
 permalink: awtomeiddio/
 ---
-
-+ [Y 'Command Line' yn -nix](/awtomeiddio/commandline/)
-+ [Y 'Command Prompt' yn Windows](/awtomeiddio/commandprompt/)

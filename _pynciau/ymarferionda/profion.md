@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Profion Awtomatig
+title: 12. Ymarferion Codio Da - Profion Awtomatig
 permalink: ymarferionda/profion/
 ---
 
