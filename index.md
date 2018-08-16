@@ -12,7 +12,7 @@ layout: default
 6. [Sgiliau Awtomeiddio](/awtomeiddio/)
 7. &#x2705; [Sgiliau Awtomeiddio - Y 'Command Line' yn -nix](/awtomeiddio/commandline/)
 8. &#x2705; [Sgiliau Awtomeiddio - Y 'Command Prompt' yn Windows](/awtomeiddio/commandprompt/)
-9. [Sgiliau Awtomeiddio - Codio Sylfaenol](/awtomeiddio/codio/)
+9. &#x2705; [Sgiliau Awtomeiddio - Codio Sylfaenol](/awtomeiddio/codio/)
 10. &#x2705; [Ymarferion Codio Da - Dogfennaeth](/ymarferionda/dogfennaeth/)
 11. &#x2705; [Ymarferion Codio Da - Modiwlareiddio](/ymarferionda/modiwlareiddio/)
 12. &#x2705; [Ymarferion Codio Da - Profion Awtomatig](/ymarferionda/profion/)
