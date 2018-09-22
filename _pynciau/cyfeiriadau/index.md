@@ -47,3 +47,9 @@ permalink: cyfeiriadau/
 + "Introduction to Git and GitHub for Python Developers", Jim Anderson ,
   
   [https://realpython.com/python-git-github-intro/](https://realpython.com/python-git-github-intro/)
+
+# Cyfeiriadau
+
++ "Tiwtorial LaTeX", Geraint Palmer,
+  
+  [http://www.geraintianpalmer.org.uk/teaching/latex-refresher/cy/](http://www.geraintianpalmer.org.uk/teaching/latex-refresher/cy/)
