@@ -43,3 +43,7 @@ permalink: cyfeiriadau/
 + "Keep a changelog", Olivier Lacan,
   
   [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/)
+
++ "Introduction to Git and GitHub for Python Developers", Jim Anderson ,
+  
+  [https://realpython.com/python-git-github-intro/](https://realpython.com/python-git-github-intro/)

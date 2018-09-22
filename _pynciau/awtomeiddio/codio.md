@@ -249,3 +249,11 @@ eilrifau o dan 42).
 + VS Code ([code.visualstudio.com](code.visualstudio.com))
 + CLion ([www.jetbrains.com/clion/](www.jetbrains.com/clion/))
 + PyCharm ([www.jetbrains.com/pycharm/](www.jetbrains.com/pycharm/))
+
+---
+
+# Cyfeiriadau
+
++ "Research software development", Vincent Knight,
+  
+  [https://vknight.org/rsd/](https://vknight.org/rsd/)

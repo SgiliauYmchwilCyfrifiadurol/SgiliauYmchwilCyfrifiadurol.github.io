@@ -19,7 +19,7 @@ layout: default
 13. &#x2705; [Ymarferion Codio Da - Y Trliongl Ymaferion Da](/ymarferionda/triongl/)
 14. [Cyfarthrebu Gwaith - LaTeX Sylfaenol](/cyfarthrebu/latex/)
 15. [Cyfarthrebu Gwaith - Awtomeiddio Canlyniadau](/cyfarthrebu/awtomeiddio/)
-16. [Rheolaeth Fersiwn gyda Git](/rheolaethfersiwn/)
+16. &#x2705; [Rheolaeth Fersiwn gyda Git](/rheolaethfersiwn/)
 17. [Cydweithio gyda GitHub](/cydweithio/)
 18. &#x2705; [Ysgrifennu Meddalwedd](/meddalwedd/)
 19. &#x2705; [Ysgrifennu Meddalwedd - Fersiynnau](/meddalwedd/fersiynnau/)

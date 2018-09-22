@@ -363,4 +363,12 @@ yna gwasgu tab a fydd yn cwblhau gweddill yr enw.
 + Hefyd gallwn ddefnyddio'r botwm saeth i fyny a saeth i lawr i seiclo trwy
 unrhyw gorchmynion a defnyddiwyd yn ddiweddar.
 
+---
+
+# Cyfeiriadau
+
++ "Research software development", Vincent Knight,
+  
+  [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
 
