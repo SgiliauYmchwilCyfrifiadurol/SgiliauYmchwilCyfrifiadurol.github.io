@@ -48,8 +48,14 @@ permalink: cyfeiriadau/
   
   [https://realpython.com/python-git-github-intro/](https://realpython.com/python-git-github-intro/)
 
-# Cyfeiriadau
-
 + "Tiwtorial LaTeX", Geraint Palmer,
   
   [http://www.geraintianpalmer.org.uk/teaching/latex-refresher/cy/](http://www.geraintianpalmer.org.uk/teaching/latex-refresher/cy/)
+
++ "Best Practices for Scientific Computing", Greg Wilson, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock Kathryn D. Huff Ian M. Mitchell Mark D. Plumbley, Ben Waugh, Ethan P. White, Paul Wilson (*PLoS Biol 12(1)*),
+  
+  [https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+
++ "Top Tips to Make Your Research Irreproducible", Neil P. Chue Hong, Tom Crick, Ian P. Gent, Lars Kotthoff, Kenji Takeda,
+  
+  [https://arxiv.org/pdf/1504.00062.pdf](https://arxiv.org/pdf/1504.00062.pdf)

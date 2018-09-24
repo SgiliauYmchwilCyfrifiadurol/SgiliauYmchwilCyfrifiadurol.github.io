@@ -25,6 +25,6 @@ layout: default
 19. &#x2705; [Ysgrifennu Meddalwedd - Fersiynnau](/meddalwedd/fersiynnau/)
 20. &#x2705; [Ysgrifennu Meddalwedd - Meddalwedd Cyfeiriadwy](/meddalwedd/cyfeirio/)
 21. &#x2705; [Ysgrifennu Meddalwedd - Trwyddedau](/meddalwedd/trwyddedau/)
-22. [Awgrymiadau Cryno Eraill](/awgrymiadau/)
+22. &#x2705; [Awgrymiadau Cryno Eraill](/awgrymiadau/)
 23. [Casgliad](/casgliad/)
 24. [Cyfeiriadau](/cyfeiriadau/)
