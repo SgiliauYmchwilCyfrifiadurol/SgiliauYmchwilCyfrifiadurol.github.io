@@ -60,7 +60,201 @@
   </header>
 
   <article class="post-content">
-    
+    <p>Tra bod Git yn offeryn pwysig a phwerus i ddefnyddio wrth weithio ar ben ein
+hunain, mae’n dod yn fwy pwerus byth wrth gydweithio gyda phobl eraill.
+Mae’r cysyniad o weithio ar ganghennau paralel yn estyn i unigolion gwahanol yn
+gweithio ar ganghennau paralel.</p>
+
+<p>I wneud hwn rydym yn defnyddio fersiwn <code>remote</code> o’r cyfeiriadur.
+Gall hyn fod unrhyw le, ond un o’r gwasanaethau mwyaf poblogaidd ar gyfer cadw
+cyfeiriadau pell yw <a href="https://github.com/">GitHub</a>.
+Nodwch taw un o gryfderau Git a GitHub yw bod holl hanes unrhyw gopi o
+cyfeiriadur trwy’r amser yn aros gyda’r cyfeiriadur yna.</p>
+
+<hr />
+
+<h2 id="mewngofnodi-i-github">0. Mewngofnodi i GitHub</h2>
+
+<p>Cyn dechrau, rhaid sefydlu cyfrif GitHub.
+Ewch i <a href="www.github.com">www.github.com</a>, ac crëwch cyfrif gan ddefnyddiwch eich
+e-bost.</p>
+
+<p>Mae GitHub yn ffordd o gydweithio ac i gynnal cod mewn lle agored a hygyrch.
+Er efallai bod rhai ohonoch yn awyddus cuddio’ch hunaniaeth ar y we; cofiwch
+bydd eich cyfrif GitHub yn cyfrif proffesiynol, ac eich enw defnyddiwr yw awdur
+swyddogol eich gwaith.
+Er mwyn hyrwyddo onestrwydd a thryloywder ymchwil, mae’n gwell peidio cuddio’ch
+hunaniaeth ar GitHub.</p>
+
+<hr />
+
+<h2 id="fforcio-cyfeiriadur">1. Fforcio cyfeiriadur</h2>
+
+<p>Ar GitHub yn barod mae cyfeiriadur ar gyfer y tiwtorial yma:</p>
+
+<ul>
+  <li><a href="https://github.com/SgiliauYmchwilCyfrifiadurol/sya-cydweithio">https://github.com/SgiliauYmchwilCyfrifiadurol/sya-cydweithio</a>.</li>
+</ul>
+
+<p>Dechreuwn trwy greu copi ein hun o’r cyfeiriadur yna.
+Galw ni hwn yn ‘Fforc’ o’r cyfeiriadur, a bydd yn creu copi o’r cyfeiriadur yna
+ar GitHub ar eich cyfrif chi.</p>
+
+<p>Ar ôl arwyddo mewn i GitHub, a mynd i’r linc uchod, cliciwch ar y botwm <code>Fork</code>.</p>
+
+<p><img src="/delweddau/forc.png" alt="" class="center-image" /></p>
+
+<p>Mae hwn yn creu copi o’r cyfeiriadur o dan eich cyfrif chi.</p>
+
+<p><img src="/delweddau/repo-wedi-copio.png" alt="" class="center-image" /></p>
+
+<hr />
+
+<h2 id="clonio-cyfeiriadur">2. Clonio cyfeiriadur</h2>
+
+<p>Nawr byddwn eisiau copi o’r cyfeiriadur yma yn lleol.
+Galwn ni hwn yn glôn o’r cyfeiriadur.</p>
+
+<p>Cliciwch ar y botwm <code>Clone or Download</code>, a chopïwch gyfeiriad y cyfeiriadur:</p>
+
+<p><img src="/delweddau/clonio.png" alt="" class="center-image" /></p>
+
+<p>Yn y ‘Command Line’ neu’r ‘Command Prompt’, llywiwch eich hun i rywle hoffwn
+rhoi clôn o’r cyfeiriadur yma (e.e. mewn ‘Documents’).
+Yna teipiwch:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">git clone &lt;cyfeiriad-a-copiwyd&gt;</code></pre></div>
+
+<p>Fe ddylach gweld rhywbeth fel hwn:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>git clone https://github.com/&lt;enw-defnyddiwr-github&gt;/sya-cydweithio.git
+Cloning into <span class="s1">&#39;sya-cydweithio&#39;</span>...
+remote: Enumerating objects: 5, <span class="k">done</span>.
+remote: Counting objects: 100% <span class="o">(</span>5/5<span class="o">)</span>, <span class="k">done</span>.
+remote: Compressing objects: 100% <span class="o">(</span>4/4<span class="o">)</span>, <span class="k">done</span>.
+remote: Total <span class="m">5</span> <span class="o">(</span>delta 0<span class="o">)</span>, reused <span class="m">5</span> <span class="o">(</span>delta 0<span class="o">)</span>, pack-reused 0
+Unpacking objects: 100% <span class="o">(</span>5/5<span class="o">)</span>, <span class="k">done</span>.</code></pre></div>
+
+<p>Mae hwn yn creu copi o holl ffeiliau sydd yn y cyfeiriadur, a’r holl hanes.
+(Cofiwch gallwn deipio <code>git log</code> i weld yr holl hanes).</p>
+
+<hr />
+
+<h2 id="gwneud-newidiadau">3. Gwneud newidiadau</h2>
+
+<p>Os agorwch chi’r ffeil <code>prif.tex</code> gwelwch chi restr o “Top Tips” sgiliau
+ymchwil cyfrifiadurol.
+Byddwch chi nawr yn ychwanegu “Top Tip” gwreiddiol arall i’r rhestr.</p>
+
+<p>Yn gyntaf, byddwn yn gweithio ar gangen newydd o’r enw <code>ychwanegu-toptip-newydd</code>:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">git branch ychwanegu-toptip-newydd
+git checkout ychwanegu-toptip-newydd</code></pre></div>
+
+<p>Nawr agorwch y ffeil <code>prif.tex</code> gyda golygydd testun.
+O fewn y rhestr <code>itemize</code> ychwanegwn linell <em>gwreiddiol</em> ychwanegol sy’n
+dechrau gyda <code>\item</code>: er enghraifft:</p>
+
+<div class="highlight"><pre><code class="language-tex" data-lang="tex"><span class="k">\item</span> Defnyddio meddalwedd agored.</code></pre></div>
+
+<p>Unwaith bod y newid wedi’i wneud, byddwn yn gwneud commit:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">git add prif.tex
+git commit</code></pre></div>
+
+<p>Ysgrifennwch neges commit synhwyrol, er enghraifft:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">ychwanegu top tip am defnyddio meddalwedd agored</code></pre></div>
+
+<p>Ar hyn o bryd mae’r newid yma ond yn bodoli ar eich cyfrifiadur.
+Er mwyn i’r newid bodoli ar y copi gwreiddiol, bydd angen i rywun sydd a
+rheolaeth dros y cyfeiriadur yna cyfuno’ch newidiadau chi i mewn i’r cod
+gwreiddiol.</p>
+
+<p>Mae angen i chi nawr gwneud “cais” er mwyn i’r cyfuno yna digwydd.
+Mae gan GitHub y gallu i wneud hwn, a elwir hwn yn <em>“Pull request”</em> (PR).</p>
+
+<hr />
+
+<h2 id="gwneud-pr">4. Gwneud PR</h2>
+
+<p>Yn gyntaf rhaid anfon y newidiadau lleol yn ôl i’ch copi ar GitHib.
+Rydym yn galw’ch copi chi ar GitHub y <code>remote</code>.
+I weld os yw Git yn gwybod am y ‘remote’:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">git remote -v</code></pre></div>
+
+<p>(Mae’r <code>-v</code> yn llaw-fer ar gyfer “verbose”).</p>
+
+<p>Mae hwn yn rhoi:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">origin https://github.com/StephanieAngharad/sya-cydweithio.git <span class="o">(</span>fetch<span class="o">)</span>
+origin https://github.com/StephanieAngharad/sya-cydweithio.git <span class="o">(</span>push<span class="o">)</span></code></pre></div>
+
+<p>Mae hwn yn dangos bod gennym un ‘remote’ gyda’r alias <code>origin</code> (nodwch bydd y
+cyfeiriad a welwch ar eich cyfrifiadur chi yn wahanol).</p>
+
+<p>Nawr rydyn ni eisiau gwthio’r newidiadau i’r ‘remote’ yna:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">git push origin ychwanegu-toptip-newydd</code></pre></div>
+
+<p>Ar ôl rhedeg y gorchymyn hwnna a dilysu’ch manylion, bydd eich newidiadau ar
+cangen ei hun ar GitHub:</p>
+
+<p><img src="/delweddau/ar-ol-gwthio.png" alt="" class="center-image" /></p>
+
+<p>Nawr rydych yn barod i wneud cais i gyfuno’r newidiadau i’r cyfeiriadur
+gwreiddiol.
+I wneud hwn cliciwch ar y botwm “Compare and pull request”, ac yna ysgrifennwch
+neges.</p>
+
+<p>Pan fyddwch yn agor PR byddwch yn sylwi mae GitHub cyn ceisio defnyddio’ch
+negeseuon commit fel y neges PR.
+Gall hyn fod yn ddefnyddiol, ond fe ddylech gofio bod neges PR yn dechrau sgwrs
+gyda rhywun arall.
+Ceisiwch ddilyn y cyngor isod:</p>
+
+<ul>
+  <li>Cynnwys pwrpas y PR: ‘bydd y newid yma yn …’</li>
+  <li>Gofynnwch am adborth: ‘Ceisiais … ond hoffwn adborth ar …’</li>
+  <li>Byddwch yn gwrtais: efallai bod y person sy’n adolygu’r PR yn brysur.</li>
+</ul>
+
+<p>Unwaith rydych wedi ysgrifennu’r neges, gallwch anfon y cais PR trwy glicio ar
+“Create a pull request”.</p>
+
+<p><img src="/delweddau/anfon-pr.png" alt="" class="center-image" /></p>
+
+<hr />
+
+<h2 id="adolygu-pr">5. Adolygu PR</h2>
+
+<p>Unwaith anfonwch chi’r PR, bydd rhywun yn ei adolygu.
+Efallai bydd yr adolygiad yn gofyn am newidiadau.</p>
+
+<p>Os bydd hwn yn digwydd, gallwn wneud unrhyw newidiadau yn lleol, ar yr un
+gangen.
+Llwyfannwch y newidiadau a gwnewch commit.
+Gwthiwch y newidiadau yn ôl i’r un gangen ar GitHub.
+Bydd hwn yn diweddaru’r PR yn awtomatig.</p>
+
+<p>Fe ddylai adolygu PR bod yn brofiad defnyddiol a phositif i bawb.
+Os ydych chi mewn sefyllfa lle rydych chi’n adolygu PR rhywun arall, cofiwch:</p>
+
+<ul>
+  <li>Peidiwch ofyn am newidiadau ar sail rhagfarn gyfarwydd: Efallai bydd rhywun
+ yn gwneud rhywbeth mewn ffordd wahanol i’r ffordd y byddwch chi, ond does dim
+ angen gofyn am newid heblaw bod rheswm da (bygs, aneffeithlonrwydd, ayyb…).</li>
+  <li>Peidiwch fod yn amwys, gofyn am newidiadau spesiffig, gan ysgrifennu
+ llinellau o god os oes angen.</li>
+  <li>Wrth awgrymu llinellau spesiffig o god, sicrhewch eich bod wedi trio nhw eich
+ hun a bod nhw’n gweithio. Wrth gwrs bydd hwn yn cymryd amser, ond mae
+ adolygiad PR da yn cymryd amser.</li>
+  <li>Rhowch gyd-destun: os oes rheswm i ofyn am newidiadau, rhowch y rheswm.</li>
+  <li>Byddwch yn bositif, a byddwch yn gwrtais.</li>
+  <li>Mae’r pwysig cofio dylai adolygiad PR fod yn sgwrs.</li>
+</ul>
+
 
   </article>
 
