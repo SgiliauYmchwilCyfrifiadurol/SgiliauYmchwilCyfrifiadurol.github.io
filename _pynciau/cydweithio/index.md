@@ -212,3 +212,10 @@ Os ydych chi mewn sefyllfa lle rydych chi'n adolygu PR rhywun arall, cofiwch:
  + Byddwch yn bositif, a byddwch yn gwrtais.
  + Mae'r pwysig cofio dylai adolygiad PR fod yn sgwrs.
 
+---
+
+# Cyfeiriadau
+
++ "Research software development", Vincent Knight,
+  
+  [https://vknight.org/rsd/](https://vknight.org/rsd/)
