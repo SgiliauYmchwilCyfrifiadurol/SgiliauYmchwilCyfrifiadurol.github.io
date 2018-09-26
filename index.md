@@ -9,7 +9,7 @@ layout: default
 3. [Ymchwil Agored - Dewis Offerynnau](/ymchwilagored/dewisofferynnau/)
 4. [Ymchwil Agored - Data Agored](/ymchwilagored/dataagored/)
 5. [Ymchwil Agored - Archifo Gwaith](/ymchwilagored/archifo/)
-6. [Sgiliau Awtomeiddio](/awtomeiddio/)
+6. &#x2705;[Sgiliau Awtomeiddio](/awtomeiddio/)
 7. &#x2705; [Sgiliau Awtomeiddio - Y 'Command Line' yn -nix](/awtomeiddio/commandline/)
 8. &#x2705; [Sgiliau Awtomeiddio - Y 'Command Prompt' yn Windows](/awtomeiddio/commandprompt/)
 9. &#x2705; [Sgiliau Awtomeiddio - Codio Sylfaenol](/awtomeiddio/codio/)
