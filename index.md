@@ -24,3 +24,6 @@ layout: default
 18. [Ysgrifennu Meddalwedd - Trwyddedau](/18-trwyddedau/)
 19. [Awgrymiadau Cryno Eraill](/19-awgrymiadau/)
 20. [Cyfeiriadau](/20-cyfeiriadau/)
+
+Prosiect a chyllidir gan grantiau bach y Coleg Cymraeg Cenedlaethol. <img src="{{root}}/delweddau/ccclogo.png" width="150">
+

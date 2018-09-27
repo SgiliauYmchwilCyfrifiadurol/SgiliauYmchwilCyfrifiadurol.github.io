@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Trebuchet MS", sans-serif;
   font-size: 20px;
   line-height: 1.5;
   font-weight: 300;
@@ -21,10 +21,10 @@ body {
   text-align: justify; }
 
 .site-header {
-  background: #FFDB3C; }
+  background: #55accf; }
 
 .site-footer {
-  background: #FFDB3C;
+  background: #55accf;
   width: 100%;
   height: 80px; }
 
@@ -68,23 +68,23 @@ li > ol {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 550;
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Trebuchet MS", sans-serif; }
 
 /**
  * Links
  */
 a {
-  color: #FF6600;
+  color: #556fcf;
   text-decoration: none; }
   a:hover {
-    color: #b34700; }
+    color: #2f49a8; }
 
 /**
  * Blockquotes
  */
 blockquote {
-  color: #E68A00;
-  border-left: 4px solid #ffa31a;
+  color: #556fcf;
+  border-left: 4px solid #7d91da;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -98,9 +98,9 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #ffa31a;
+  border: 1px solid #7d91da;
   border-radius: 3px;
-  background-color: #FFFDEC; }
+  background-color: #e1f0f7; }
 
 code {
   padding: 1px 5px; }
@@ -147,7 +147,7 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #E68A00; }
+    fill: #556fcf; }
 
 .homesec {
   float: left;
@@ -202,7 +202,7 @@ td {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #673e00; }
+    color: #243880; }
 
 .site-nav {
   float: right;
@@ -210,7 +210,7 @@ td {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #FF6600;
+    color: #556fcf;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
@@ -219,8 +219,8 @@ td {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #FFCC1A;
-      border: 1px solid #ffa31a;
+      background-color: #55accf;
+      border: 1px solid #7d91da;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -235,7 +235,7 @@ td {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #673e00; }
+            fill: #243880; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -263,7 +263,7 @@ td {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #E68A00;
+  color: #556fcf;
   margin-left: -15px; }
 
 .footer-col {
@@ -315,7 +315,7 @@ td {
 
 .post-meta {
   font-size: 17.5px;
-  color: #E68A00; }
+  color: #556fcf; }
 
 .post-link {
   display: block;
@@ -328,7 +328,7 @@ td {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 40px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
