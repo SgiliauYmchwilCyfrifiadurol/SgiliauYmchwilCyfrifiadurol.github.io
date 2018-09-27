@@ -4,7 +4,7 @@ layout: default
 
 ### Gwersi
 
-1. [Ailgynhyrchadwyedd](/01-ailgynhyrchadwyedd/)
+1. &#x2705; [Ailgynhyrchadwyedd](/01-ailgynhyrchadwyedd/)
 2. [Ymchwil Agored](/02-ymchwil-agored/)
 3. &#x2705; [Sgiliau Awtomeiddio](/03-sgiliau-awtomeiddio/)
 4. &#x2705; [Sgiliau Awtomeiddio - Y 'Command Line' yn -nix](/04-commandline/)

@@ -4,6 +4,10 @@ title: 21. Cyfeiriadau
 permalink: 21-cyfeiriadau/
 ---
 
++ "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions", Fabien C. Y. Benureau ac Nicolas P. Rougier,
+
+  [https://arxiv.org/pdf/1708.08205.pdf](https://arxiv.org/pdf/1708.08205.pdf)
+
 + "Research software development", Vincent Knight,
 
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
