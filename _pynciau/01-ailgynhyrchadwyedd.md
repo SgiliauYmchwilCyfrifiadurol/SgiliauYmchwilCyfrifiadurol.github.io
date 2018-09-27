@@ -43,18 +43,31 @@ hailgynhyrchu.
 Mewn papur gan Benureau a Rougier (cyfeiriad isod), rhoddir diffiniad ar gyfer
 y pedwar term canlynol:
 
-+ **Ail-redeg** *(Re-run)*: Rhedeg yr union un cod eto ar unrhyw bwynt yn y
++ $$A^1$$ **Ail-redeg** *(Re-run)*: Rhedeg yr union un cod eto ar unrhyw bwynt yn y
 dyfodol.
-+ **Ailadrodd** *(Repeat)*: Rhedeg yr union un cod eto ar unrhyw bwynt yn y
++ $$A^2$$ **Ailadrodd** *(Repeat)*: Rhedeg yr union un cod eto ar unrhyw bwynt yn y
 dyfodol, a chynhyrchu'r union un canlyniadau pob tro.
-+ **Ailgynhyrchu** *(Reproduce)*: Ymchwiliwr arall yn rhedeg yr union un cod (ar
++ $$A^3$$ **Ailgynhyrchu** *(Reproduce)*: Ymchwiliwr arall yn rhedeg yr union un cod (ar
 gyfrifiadur arall, mewn amgylchedd gwahanol) ar unrhyw bwynt yn y dyfodol, a
 chynhyrchu'r union un canlyniadau pob tro.
-+ **Ailddefnyddio** *(Reuse)*: Ymchwilwyr eraill yn newid ac addasu'r cod er
++ $$A^4$$ **Ailddefnyddio** *(Reuse)*: Ymchwilwyr eraill yn newid ac addasu'r cod er
 mwyn ei ddefnyddio. Er enghraifft ar broblem newydd, neu i'w gwella.
 
 Fel arfer, a trwy gydol y cwrs yma, byddwn yn defnyddio'r term
 ***ailgynhyrchu*** i olygu pob un o'r pedwar term uchod.
+
+---
+
+# Cynnwys
+
+Bydd y cwrs yma yn edrych ar y pynciau canlynol:
+
++ Ymchwil agored ($$A^3$$, $$A^4$$)
++ Sgiliau awtomeiddio ($$A^1$$, $$A^2$$)
++ Ymarferion codio da ($$A^3$$, $$A^4$$)
++ Cyfathrebu gwaith ($$A^3$$, $$A^4$$)
++ Rheolaeth fersiwn a cydweithio ($$A^1$$, $$A^2$$, $$A^3$$, $$A^4$$)
++ Ysgrifennu meddalwedd ($$A^4$$)
 
 ---
 
