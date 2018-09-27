@@ -21,9 +21,9 @@ rhesymau:
 Edrychwn ar sawl ffordd o awtomeiddio gwaith yn y cwrs yma:
 
  + Awtomeiddio prosesau sy'n ymwneud a ffeiliau a ffolderau ar y cyfrifiadur:
- defnyddiwn y [Command Line](/awtomeiddio/commandline/) ar systemau -nix, a'r
- [Command Prompt](/awtomeiddio/commandprompt/) ar systemau Windows.
+ defnyddiwn y [Command Line](/04-commandline/) ar systemau -nix, a'r
+ [Command Prompt](/05-commandprompt/) ar systemau Windows.
  + Awtomeiddio methodoleg a thriniaeth data: defnyddio iaith rhaglenni.
- Edrychwn ar [Python](/awtomeiddio/codio/) yn y cwrs yma.
- + Awtomeiddio [cyfathrebu canlyniadau](/cyfathrebu/awtomeiddio/) trwy allbynnu
+ Edrychwn ar [Python](/06-codio/) yn y cwrs yma.
+ + Awtomeiddio [cyfathrebu canlyniadau](/12-awtomeiddio-canlyniadau/) trwy allbynnu
  canlyniadau yn syth i'r ddogfen ysgrifenedig.
