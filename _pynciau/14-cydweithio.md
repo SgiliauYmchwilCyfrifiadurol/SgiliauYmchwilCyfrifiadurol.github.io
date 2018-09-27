@@ -4,6 +4,14 @@ title: 14. Cydweithio gyda GitHub
 permalink: 14-cydweithio/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/13-rheolaeth-fersiwn/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/15-meddalwedd/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Tra bod Git yn offeryn pwysig a phwerus i ddefnyddio wrth weithio ar ben ein
 hunain, mae'n dod yn fwy pwerus byth wrth gydweithio gyda phobl eraill.
 Mae'r cysyniad o weithio ar ganghennau paralel yn estyn i unigolion gwahanol yn
@@ -219,3 +227,10 @@ Os ydych chi mewn sefyllfa lle rydych chi'n adolygu PR rhywun arall, cofiwch:
 + "Research software development", Vincent Knight,
   
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
+<table align='center'>
+<tr>
+    <td><a href="/13-rheolaeth-fersiwn/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/15-meddalwedd/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

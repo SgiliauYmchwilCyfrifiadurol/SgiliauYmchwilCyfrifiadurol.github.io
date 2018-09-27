@@ -4,6 +4,14 @@ title: 13. Rheolaeth Fersiwn gyda Git
 permalink: 13-rheolaeth-fersiwn/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/12-awtomeiddio-canlyniadau/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/14-cydweithio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae system rheolaeth fersiwn yn offeryn sy'n tracio hanes set o ffeiliau.
 Mae hwn yn golygu gallwn ddweud wrth y system rheolaeth fersiwn i arbed *cyflwr*
 ein ffeiliau ar unrhyw bwynt.
@@ -768,3 +776,10 @@ yn fwy ystyrlon.
 + "Introduction to Git and GitHub for Python Developers", Jim Anderson ,
   
   [https://realpython.com/python-git-github-intro/](https://realpython.com/python-git-github-intro/)
+
+<table align='center'>
+<tr>
+    <td><a href="/12-awtomeiddio-canlyniadau/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/14-cydweithio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

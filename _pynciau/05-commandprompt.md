@@ -4,6 +4,14 @@ title: 5. Sgiliau Awtomeiddio - Y 'Command Prompt' yn Windows
 permalink: 05-commandprompt/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/04-commandline/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/06-codio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae systemau Windows yn defnyddio'r 'command prompt' i siarad i'r cyfrifiadur.
 I fedru gwneud hwn, agorwn y **command prompt** neu **Anaconda prompt**.
 Dyle fe edrych rhywbeth fel hyn (bydd lliwiau ac efallai ysgrifen wahanol gyda
@@ -35,6 +43,8 @@ Nodwch yn y tiwtorial yma defnyddiwn y geiriau 'cyfeiriadur' (directory) a
 Mewn gwirionedd cyfeiriaduron yw popeth, ond weithiau mae'r cysyniad o 'ffolder'
 yn gweithio'n well er mwyn cynyddu dealltwriaeth.
 
+---
+
 ### 1. Ble ydyn ni?
 
 Yn gyntaf gallwn wirio lle ar y cyfrifiadur ydyn ni ar hyn o bryd gan
@@ -48,6 +58,7 @@ C:\Users\palme
 Os welwn enw defnyddiwr, mae hwn yn golygu ein bod ni mewn ein cyfeiriadur
 cartref (home directory).
 
+---
 
 ### 2. Beth sydd yna?
 
@@ -73,6 +84,7 @@ cyfrifiadur chi yn edrych yn wahanol.
 Fe allwn agor GUI ('Finder' neu 'File Browser') a chymharu bod y rhestr yma yn
 cyfateb a beth ddangosir yna.
 
+---
 
 ### 3. Creu ffolder
 
@@ -113,6 +125,7 @@ trwy ddefnyddio rhoi dyfnodau o gwmpas yr enw, er enghraifft
 Bydd rhaid defnyddio'r dyfnodau yma pob tro rydym eisiau defnyddio'r ffeil neu
 ffolder yna. Ni argymhellir hwn.)*
 
+---
 
 ### 4. Symud i leoliad arall
 
@@ -170,6 +183,7 @@ Yn yr un modd os ydyn ni eisiau mynd i'r ffolder `lluniau` o fan hyn:
 $ cd ..\dysgu-gorchmynion\lluniau
 {% endhighlight %}
 
+---
 
 ### 5. Trin ffeiliau
 
@@ -192,6 +206,7 @@ $ ls
 05/07/2018  15:44         1,127,118 crwban.jpg
 {% endhighlight %}
 
+---
 
 ### 5a. Copïo ffeil
 
@@ -229,6 +244,7 @@ $ dir ..\
 05/07/2018  15:47    <DIR>          lluniau
 {% endhighlight %}
 
+---
 
 ### 5b. Symud ffeil
 
@@ -276,7 +292,7 @@ Os hoffwn ailenwi `anifail.jpeg` i `crwban2.jpeg`:
 $ move anifail.jpeg crwban2.jpeg
 {% endhighlight %}
 
-
+---
 
 ### 5c. Dileu ffeil
 
@@ -298,6 +314,7 @@ $ dir
 05/07/2018  15:44         1,127,118 crwban2.jpg
 {% endhighlight %}
 
+---
 
 ### 5ch. Copïo a dileu ffolderi
 
@@ -337,6 +354,7 @@ $ dir
 05/07/2018  15:54    <DIR>          lluniau2
 {% endhighlight %}
 
+---
 
 ## Crynodeb ac awgrymiadau
 
@@ -371,4 +389,10 @@ unrhyw gorchmynion a defnyddiwyd yn ddiweddar.
   
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
 
+<table align='center'>
+<tr>
+    <td><a href="/04-commandline/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/06-codio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
 

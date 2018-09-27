@@ -4,6 +4,14 @@ title: 10. Ymarferion Codio Da - Y Triongl Ymaferion Da
 permalink: 10-triongl/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/09-profion/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/11-latex/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae'r tri agwedd ymarferion codio da, Dogfennaeth, Modiwlareiddio, a Phrofion
 Awtomatig, yn gweithio'n gwell gyda'i gilydd.
 Nid yw'n gwneud synnwyr gofyn pa un fydd orau i'w wneud.
@@ -155,8 +163,17 @@ assert ffactor_cyffredin_mwyaf(10, 8) == 4
 Ac felly mae gennym ffwythiant y gellir ei ailddefnyddio, wedi ysgrifennu mewn
 ffordd ddarllenadwy a dealladwy, wedi'i phrofi ar gyfer nifer o achosion.
 
+---
+
 # Cyfeiriadau
 
 + "Research software development", Vincent Knight,
 
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
+<table align='center'>
+<tr>
+    <td><a href="/09-profion/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/11-latex/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

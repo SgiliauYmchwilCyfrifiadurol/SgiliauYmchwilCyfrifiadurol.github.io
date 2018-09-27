@@ -4,6 +4,14 @@ title: 1. Ailgynhyrchadwyedd
 permalink: 01-ailgynhyrchadwyedd/
 ---
 
+<table align='center'>
+<tr>
+    <td>Dechrau</td>
+    <td><a href="/02-ymchwil-agored/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Ailgynhyrchadwyedd yw asgwrn cefn ymchwil.
 
 Mae'n rhan bwysig o'r 'Dull gwyddonol'; mae'n sicrhau bod ein canlyniadau yn
@@ -76,3 +84,10 @@ Bydd y cwrs yma yn edrych ar y pynciau canlynol:
 + "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions", Fabien C. Y. Benureau ac Nicolas P. Rougier,
 
   [https://arxiv.org/pdf/1708.08205.pdf](https://arxiv.org/pdf/1708.08205.pdf)
+
+<table align='center'>
+<tr>
+    <td>Dechrau</td>
+    <td><a href="/02-ymchwil-agored/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

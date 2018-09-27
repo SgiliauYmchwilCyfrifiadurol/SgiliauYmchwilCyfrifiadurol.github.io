@@ -4,6 +4,14 @@ title: 16. Ysgrifennu Meddalwedd - Fersiynnau
 permalink: 16-fersiynnau/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/15-meddalwedd/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/17-cyfeirio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae nodi pa fersiwn o meddalwedd a ddefnyddiwyd mewn darn o waith yn hollbwysig
 ar gyfer ailgynhyrchadwyedd.
 Gall canlyniadau a generadwyd gan fersiwn henach new mewy newydd o'r un
@@ -18,6 +26,7 @@ dogfennaeth, ac ar unrhyw storfa lle ellir lawrlwytho'r meddalwedd.
 + Nodwn yn ofalus y gwahaniaethau rhwng pob fersiwn mewn dogfen sydd ar gael o
 fewn y meddalwedd ac hefyd yn y dogfennaeth.
 
+---
 
 # Fersiynu Semantig
 
@@ -62,6 +71,7 @@ sylweddol, ac yn torri ôl-gytunedd. Cynyddir y rhif `x` ac osodir y rhifau `y` 
 
 > Enghraifft: Gwyddon fod y gwahaniaeth rhwng fersiwn `1.0.3` ac `2.0.0` yn sylweddol, ac bydd ôl-gytunedd wedi torri.
 
+---
 
 # Log Newidiadau
 
@@ -144,6 +154,7 @@ v0.0.1 (2017-12-14)
 - Rhyddhad cychwynnol.
 {% endhighlight %}
 
+---
 
 # Cyfeiriadau
 
@@ -154,3 +165,10 @@ v0.0.1 (2017-12-14)
 + "Keep a changelog", Olivier Lacan,
   
   [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/)
+
+<table align='center'>
+<tr>
+    <td><a href="/15-meddalwedd/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/17-cyfeirio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

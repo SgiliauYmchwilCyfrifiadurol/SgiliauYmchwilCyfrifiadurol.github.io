@@ -4,6 +4,14 @@ title: 2. Ymchwil Agored
 permalink: 02-ymchwil-agored/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/01-ailgynhyrchadwyedd/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/03-sgiliau-awtomeiddio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae 'ymchwil agored' yn derm mawr sy'n cynnwys holl gysyniadau sicrhau bod
 gwyddoniaeth a chyllidir gan y cyhoedd ar gael i'r cyhoedd.
 Golygir hwn fod allbynnau ymchwil ar gael, yn rhad ac am ddim, i unrhyw un sydd
@@ -162,3 +170,11 @@ gyfeiriadwy, am amser hir iawn.
 + "The DOI System", The International DOI Foundation,
 
   [https://www.doi.org/](https://www.doi.org/)
+
+
+<table align='center'>
+<tr>
+    <td><a href="/01-ailgynhyrchadwyedd/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/03-sgiliau-awtomeiddio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

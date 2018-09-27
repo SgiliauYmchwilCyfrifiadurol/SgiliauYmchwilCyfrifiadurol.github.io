@@ -4,6 +4,14 @@ title: 17. Ysgrifennu Meddalwedd - Meddalwedd Cyfeiriadwy
 permalink: 17-cyfeirio/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/16-fersiynnau/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/18-trwyddedau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Yn union fel darllen papurau ymchwil neu llyrfrau, mae defnydd meddalwedd yn
 cyfraniad bwysig i'r broses ymchwil.
 I dangos, profi, cadarnhau a cydnabod ffynhonellau cyfraniadau i ymchwil rydym
@@ -41,8 +49,9 @@ dogfennau hanesyddol defnyddiol.
 ei hun, a'i ddogfennaeth, data, metadata ac unrhyw deunyddiau defnyddiol eraill.
 
 5. **Penodoldeb:** Dylai cyfeiriadau meddalwedd cyfeirio at fersiynnau penodol
-o'r meddalwedd
+o'r meddalwedd.
 
+---
 
 # Sut i wneud meddalwedd yn cyfeiriadwy
 
@@ -84,9 +93,7 @@ ffyrdd o ysgrifennu un o rhaid, un strwythurau poblogaidd yw
 [CFF](https://citation-file-format.github.io/). Mae gan yr iaith `R` ffwythiant
 i ddarllen y ffeiliau yma: `citation()`!
 
-
-
-
+---
 
 # Cyfeiriadau
 
@@ -101,3 +108,10 @@ i ddarllen y ffeiliau yma: `citation()`!
 + "Encouraging citation of software – introducing CITATION files", Wilson, R.,
   
   [https://www.software.ac.uk/blog/2016-10-06-encouraging-citation-software-introducing-citation-files](https://www.software.ac.uk/blog/2016-10-06-encouraging-citation-software-introducing-citation-files)
+
+<table align='center'>
+<tr>
+    <td><a href="/16-fersiynnau/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/18-trwyddedau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

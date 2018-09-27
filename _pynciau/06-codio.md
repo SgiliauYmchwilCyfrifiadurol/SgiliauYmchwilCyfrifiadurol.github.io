@@ -4,6 +4,14 @@ title: 6. Sgiliau Awtomeiddio - Codio
 permalink: 06-codio/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/05-commandprompt/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/07-dogfennaeth/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Ffordd gyffredin a ddefnyddiol o awtomeiddio tasgau cyfrifiadurol yw codio.
 Fel rheol bydd rhan fwyaf o ddadansoddiad data, efelychiadau ac algorithmau yn
 cael eu cyflawni yn y modd yma.
@@ -29,7 +37,7 @@ cwrs sgiliau ymchwil ailgynhyrchiadwy yma.
 
 ---
 
-## Gosod Python
+## 0. Gosod Python
 
 Ar gyfer y tiwtorial yma argymhellir
 [Anaconda](https://www.anaconda.com/download/)
@@ -40,7 +48,7 @@ Python.
 
 ---
 
-## Defnyddio'r dehonglydd Python
+## 1. Defnyddio'r dehonglydd Python
 
 Agorwch y 'Command Line' neu'r 'Command Prompt', a theipiwch:
 
@@ -67,7 +75,7 @@ Fe allwn weld beth ddylai hwn edrych fel isod:
 4
 {% endhighlight %}
 
-## Creu newidynnau rhifol
+## 2. Creu newidynnau rhifol
 
 Fe allwn aseinio newidynnau gan ddefnyddio'r gweithredydd `=`:
 
@@ -80,7 +88,7 @@ Fe allwn aseinio newidynnau gan ddefnyddio'r gweithredydd `=`:
 
 ---
 
-## Creu newidynnau Boolean
+## 3. Creu newidynnau Boolean
 
 Gallwn greu newidynnau Boolean trwy ddefnyddio nifer o weithredyddion cymharu,
 gan gynnwys:
@@ -101,7 +109,7 @@ True
 
 ---
 
-## Creu rhestrau
+## 4. Creu rhestrau
 
 Mae gan Python strwythurau y gellir indecsio, rhestrau:
 
@@ -130,14 +138,14 @@ exit()
 
 ---
 
-## Defnyddio sgriptiau Python
+## 5. Defnyddio sgriptiau Python
 
 I ddechrau ysgrifennu cod mwy defnyddiol, gallwn ysgrifennu'r cod o fewn ffeil,
 ac yna gallwn redeg y cod trwy ddefnyddio'r 'Command Line' neu'r 'Command
 Prompt'.
 
 
-### Ysgrifennu sgript Python
+### 5a. Ysgrifennu sgript Python
 
 Agorwch olygydd testun (*text editor*, mae rhestr o olygyddion testun
 argymhellir ar ddiwedd y tiwtorial yma), a chrëwch ffeil newydd o'r enw
@@ -150,7 +158,7 @@ print("helo byd")
 
 Sylwch nid ydym yn ysgrifennu `>>>`.
 
-### Rhedeg sgript Python
+### 5b. Rhedeg sgript Python
 
 Gan ddefnyddio'r 'Command Line' neu'r 'Command Prompt', gallwn ddweud wrth y
 cyfrifiadur i gyflawni'r cyfarwyddiadau sydd yn y sgript.
@@ -169,7 +177,7 @@ gyfforddus yn ei ddefnyddio.
 
 ---
 
-## Datganiadau-If
+## 6. Datganiadau-If
 
 Gallwn ddefnyddio newidynnau Boolean i greu datganiadau rhesymegol.
 
@@ -188,7 +196,7 @@ else:
 Mae bloc cod a chilosodwyd yn dynodi pa god i redeg *os* yw'r newidyn Boolean
 `N % 2 == 0` yn `True`.
 
-## Lwpiau-'While'
+## 7. Lwpiau-'While'
 
 Mae'n bosib ailadrodd cod trwy ddefnyddio lwpiau-`while`, a fydd yn gwirio
 newidyn Boolean tro ar ôl tro.
@@ -209,7 +217,7 @@ Rhedwch y ffeil yma.
 
 ---
 
-## Ffwythiannau
+## 8. Ffwythiannau
 
 Mae'n bosib creu ffwythiannau mewn Python.
 Darnau o god yw'r rhain sydd ond yn rhedeg pan ddefnyddir y ffwythiant; ac fe
@@ -257,3 +265,10 @@ eilrifau o dan 42).
 + "Research software development", Vincent Knight,
   
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
+<table align='center'>
+<tr>
+    <td><a href="/05-commandprompt/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/07-dogfennaeth/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

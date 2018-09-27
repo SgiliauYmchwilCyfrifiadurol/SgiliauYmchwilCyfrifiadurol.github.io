@@ -4,6 +4,14 @@ title: 11. Cyfathrebu - LaTeX
 permalink: 11-latex/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/10-triongl/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/12-awtomeiddio-canlyniadau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae cyfathrebu ymchwil mor bwysig a chynnal yr ymchwil.
 Felly mae angen i'r offerynnau rydym yn defnyddio i ysgrifennu'r ymchwil cwrdd
 a'r un gofynion a'r offerynnau rydym yn defnyddio i gynnal yr ymchwil:
@@ -696,3 +704,10 @@ ac arbrofwch gyda opsiynnau troshaen.
 + "Tiwtorial LaTeX", Geraint Palmer,
   
   [http://www.geraintianpalmer.org.uk/teaching/latex-refresher/cy/](http://www.geraintianpalmer.org.uk/teaching/latex-refresher/cy/)
+
+<table align='center'>
+<tr>
+    <td><a href="/10-triongl/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/12-awtomeiddio-canlyniadau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

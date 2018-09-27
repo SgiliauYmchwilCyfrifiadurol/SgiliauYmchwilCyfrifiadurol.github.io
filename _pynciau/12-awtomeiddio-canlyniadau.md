@@ -4,6 +4,14 @@ title: 12. Cyfathrebu - Awtomeiddio Canlyniadau
 permalink: 12-awtomeiddio-canlyniadau/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/11-latex/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/13-rheolaeth-fersiwn/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Gwelwn yn y tiwtorial blaenorol bod LaTeX yn ddefnyddiol iawn ar gyfer creu
 dogfennau ysgrifenedig sy'n edrych yn broffesiynol iawn.
 Un o gryfderau mwyaf LaTeX yw'r gallu i *strwythuro* ffynonellau’r ddogfen mewn
@@ -102,3 +110,10 @@ Mae'r rhain yn allbynnu i mewn i gystrawen LaTeX yn uniongyrchol!
 + "Research software development", Vincent Knight,
   
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
+<table align='center'>
+<tr>
+    <td><a href="/11-latex/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/13-rheolaeth-fersiwn/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

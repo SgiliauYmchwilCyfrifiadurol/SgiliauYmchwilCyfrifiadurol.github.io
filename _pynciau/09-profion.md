@@ -4,6 +4,14 @@ title: 9. Ymarferion Codio Da - Profion Awtomatig
 permalink: 09-profion/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/08-modiwlareiddio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/10-triongl/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae profion awtomatig yn sicrhau bod y cod rydym wedi ysgrifennu yn gweithio fel
 rydym yn ei ddisgwyl, i wirio cywirdeb ein methodoleg.
 Dychmyga nhw fel 'arholiad' ar gyfer y cod, lle rydym yn gwirio 'atebion' y cod
@@ -62,8 +70,9 @@ def haprhestr(n):
 	return rhestr
 {% endhighlight %}
 
+---
 
-# Datganiadau 'if' ac 'assert'
+# 1. Datganiadau 'if' ac 'assert'
 
 Y ffordd symlaf o brofi ffwythiant yw defnyddio datganiad 'if'.
 Is yw'r ateb a rhoddir yn wahanol i'r ateb a disgwylir, yna printiwch rybudd.
@@ -104,8 +113,9 @@ y cod yn gweithio, ac ar ba sail gallwch ddweud hynny (pa enghreifftiau y
 profwyd).
 Mae hwn yn cadw'r broses ymchwil yn dryloyw.
 
+---
 
-# Profi hapddigwyddiadau
+# 2. Profi hapddigwyddiadau
 
 Mewn nifer o feysydd efallai bydd angen codio hapddigwyddiadau ("random
 events"), er enghraifft mewn dulliau efelychu, dulliau hewristig, dulliau
@@ -167,8 +177,9 @@ assert len(enghreifftiau.haprhestr(4)) == 4
 assert len(enghreifftiau.haprhestr(5)) == 5
 {% endhighlight %}
 
+---
 
-# Mathau o brofion
+# 3. Mathau o brofion
 
 Mae yna nifer o fathau o brofion awtomatig gallwn gyflogi i brofi’n cod.
 Mae set o brofion da yn cynnwys pob math:
@@ -212,7 +223,9 @@ Y nod yw bwrw 100% o'r cod, ac felly profi 100% o'r cod.
 Mae hwn fel arfer yn golygu ysgrifennu profion gyda digon o enghreifftiau i
 wirio pob achos arbennig (e.e. pob achos pob datganiad 'if').
 
-# TTD
+---
+
+# 4. TTD
 
 Mae TTD neu 'datblygiad wedi'i yrru gan brawf' ("test driven development") yn
 ffordd o fynd ati i ysgrifennu cod wedi'i seilio o gwmpas profion awtomatig.
@@ -231,6 +244,7 @@ y prawf).
 
 ac ailadrodd hwn pob tro rydym ni eisiau ychwanegu cod newydd.
 
+---
 
 # Cyfeiriadau
 
@@ -241,3 +255,10 @@ ac ailadrodd hwn pob tro rydym ni eisiau ychwanegu cod newydd.
 + "Test-Driven Development with Python", Harry Percival,
   
   [http://www.obeythetestinggoat.com/](http://www.obeythetestinggoat.com/)
+
+<table align='center'>
+<tr>
+    <td><a href="/08-modiwlareiddio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/10-triongl/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

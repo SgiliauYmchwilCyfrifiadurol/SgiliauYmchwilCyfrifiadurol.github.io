@@ -4,6 +4,14 @@ title: 15. Ysgrifennu Meddalwedd
 permalink: 15-meddalwedd/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/14-cydweithio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/16-fersiynnau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae gwahaniaeth rhwng ysgrifennu cod, neu rhaglen, ac ysgrifennu meddalwedd.
 
   + Y cod, neu'r rhaglen, yw'r sgript mae'r cyfrifiadur yn trosglwyddo i mewn i
@@ -78,3 +86,10 @@ ailgynhyrchiadwy.
 Yn y gwersi nesa, canolbwyntiwn yn fwy manwl ar meta-data meddalwedd: beth i
 cynnwys helpu defnyddwyr cyfeirio at y meddalwedd, cael gwbodaeth fersiynnau, a
 trwyddedau meddalwedd.
+
+<table align='center'>
+<tr>
+    <td><a href="/14-cydweithio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/16-fersiynnau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

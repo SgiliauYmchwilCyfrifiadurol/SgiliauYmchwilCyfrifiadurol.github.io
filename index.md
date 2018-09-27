@@ -23,5 +23,4 @@ layout: default
 17. [Ysgrifennu Meddalwedd - Meddalwedd Cyfeiriadwy](/17-cyfeirio/)
 18. [Ysgrifennu Meddalwedd - Trwyddedau](/18-trwyddedau/)
 19. [Awgrymiadau Cryno Eraill](/19-awgrymiadau/)
-20. [Casgliad](/20-casgliad/)
-21. [Cyfeiriadau](/21-cyfeiriadau/)
+20. [Cyfeiriadau](/20-cyfeiriadau/)

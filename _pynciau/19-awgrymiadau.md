@@ -4,6 +4,14 @@ title: 19. Awgrymiadau Cryno Eraill
 permalink: 19-awgrymiadau/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/18-trwyddedau/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/20-cyfeiriadau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Fel crynodeb o'r pethau a ddysgir yn y cwrs yma, dyma wyth awgrym a rhoddir yn y papur "Best Practices for Scientific Computing" gan Wilson et. al. (cyfeiriad isod):
 
 1. **Ysgrifennwch god ar gyfer pobl, nid cyfrifiaduron.**
@@ -71,3 +79,10 @@ A dyma pum awgrym sut i gynnal ymchwil sydd ***ddim*** yn ailgynhyrchiadwy, a rh
 + "Top Tips to Make Your Research Irreproducible", Neil P. Chue Hong, Tom Crick, Ian P. Gent, Lars Kotthoff, Kenji Takeda,
   
   [https://arxiv.org/pdf/1504.00062.pdf](https://arxiv.org/pdf/1504.00062.pdf)
+
+<table align='center'>
+<tr>
+    <td><a href="/18-trwyddedau/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/20-cyfeiriadau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

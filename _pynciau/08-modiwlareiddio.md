@@ -4,6 +4,14 @@ title: 8. Ymarferion Codio Da - Modiwlareiddio
 permalink: 08-modiwlareiddio/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/07-dogfennaeth/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/09-profion/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Yn union fel darllen rhyddiaith Cymraeg, mae un paragraff hir a dwys o god yn
 anodd iawn i'w ddarllen.
 Felly dylen ni osgoi blociau mawr o god, a lle'n bosib torri'r cod lawr i mewn i
@@ -22,8 +30,9 @@ Fe elwir hyn yn 'rhaglennu gwrthrych-gyfeiriadol' ("object-orientated
 programming"), sy'n ffordd bellach o dorri lan cod, ond ni fyddwn yn edrych arni
 yn y tiwtorial yma.
 
+---
 
-# Ffwythiannau
+# 1. Ffwythiannau
 
 Yn Python rydym yn diffinio ffwythiant trwy ddefnyddio'r datganiad `def`.
 Er enghraifft:
@@ -133,8 +142,9 @@ Y ffordd yma, mae'r cod yn ailgynhyrchiadwy oherwydd gall ymchwilwyr eraill:
 2. Ailddefnyddio unrhyw ran o'r cod;
 3. Defnyddio'r cod ar gyfer problemau gwahanol.
 
+---
 
-# Modiwlau
+# 2. Modiwlau
 
 Modiwlau yw sgriptiau eraill rydym yn mewnfudo i mewn i'n cod er mwyn ei
 ddefnyddio mewn cyd-destun arall.
@@ -183,6 +193,8 @@ bydd ymchwilwyr eraill yn eu defnyddio.
 Yn y ffordd yma, yn ogystal â helpu ni darllen y cod a lleihau camgymeriadau,
 mae modiwlaredd yn cyfrannu tuag at ailgynhyrchadwyedd ein gwaith.
 
+---
+
 # Cyfeiriadau
 
 + "Research software development", Vincent Knight,
@@ -192,3 +204,10 @@ mae modiwlaredd yn cyfrannu tuag at ailgynhyrchadwyedd ein gwaith.
 + "Modular Programming and Modules",
   
   [https://www.python-course.eu/modules_and_modular_programming.php](https://www.python-course.eu/modules_and_modular_programming.php)
+
+<table align='center'>
+<tr>
+    <td><a href="/07-dogfennaeth/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/09-profion/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

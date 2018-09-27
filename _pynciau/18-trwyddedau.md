@@ -4,6 +4,14 @@ title: 18. Ysgrifennu Meddalwedd - Trwyddedau
 permalink: 18-trwyddedau/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/17-cyfeirio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/19-awgrymiadau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 ***Ymwadiad:** Bwriad y tudalen yma yw codi ymwybyddiaeth o bwysigrwydd
 trwyddedau meddalwedd a'r gwahanol fathau o drwyddedau. Nid yw wedi'i ysgrifennu
 gan gyfreithwyr ac nid yw'n cyngor cyfreithiol.*
@@ -33,6 +41,7 @@ eich cod?
 Cyn mynd ati i roi trwydded ar eich cod, gwiriwch bolisi eiddo deallusol eich
 sefydliad.
 
+---
 
 # Dewis Trwydded
 
@@ -103,6 +112,7 @@ poblogaidd fan hyn:
 
   Awgrymir y drwydded yma os ydych yn poeni rhannu gwelliannau.
 
+---
 
 # Creu Trwydded
 
@@ -137,7 +147,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 {% endhighlight %}
 
-
+---
 
 # Cyfeiriadau
 
@@ -148,3 +158,10 @@ SOFTWARE.
 + "Choose an open source license", GitHub,
   
   [https://choosealicense.com/licenses/](https://choosealicense.com/licenses/)
+
+<table align='center'>
+<tr>
+    <td><a href="/17-cyfeirio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/19-awgrymiadau/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

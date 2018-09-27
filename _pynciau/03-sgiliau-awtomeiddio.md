@@ -4,6 +4,14 @@ title: 3. Sgiliau Awtomeiddio
 permalink: 03-sgiliau-awtomeiddio/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/02-ymchwil-agored/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/04-commandline/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Mae awtomeiddio yn gysyniad pwysig iawn mewn ymchwil cyfrifiadurol am nifer o
 rhesymau:
 
@@ -27,3 +35,10 @@ Edrychwn ar sawl ffordd o awtomeiddio gwaith yn y cwrs yma:
  Edrychwn ar [Python](/06-codio/) yn y cwrs yma.
  + Awtomeiddio [cyfathrebu canlyniadau](/12-awtomeiddio-canlyniadau/) trwy allbynnu
  canlyniadau yn syth i'r ddogfen ysgrifenedig.
+
+<table align='center'>
+<tr>
+    <td><a href="/02-ymchwil-agored/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/04-commandline/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>

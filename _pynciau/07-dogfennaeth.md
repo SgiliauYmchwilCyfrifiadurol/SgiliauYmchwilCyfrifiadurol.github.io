@@ -4,6 +4,14 @@ title: 7. Ymarferion Codio Da - Dogfennaeth
 permalink: 07-dogfennaeth/
 ---
 
+<table align='center'>
+<tr>
+    <td><a href="/06-codio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/08-modiwlareiddio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
+<br>
+
 Dogfennaeth mewn cod yw agweddau o'r cod sydd yn bodoli i helpu person medru
 darllen a deall y cod yn well.
 Oherwydd bod cod yn ffordd fanwl iawn (union) o gyfathrebu methodoleg, mae'n
@@ -16,6 +24,8 @@ methodoleg.
 
 Edrychwn ar dair agwedd o ddogfennaeth o fewn cod: sylwadau, 'docstrings', ac
 enwau newidynnau a ffwythiannau.
+
+---
 
 # 1. Sylwadau
 
@@ -69,7 +79,7 @@ Po fwyaf nifer y sylwadau, po fwyaf tebygol y bydd y cod yn newid heb y sylw.
 Felly mae'n gwell i ond defnyddio sylwadau ar gyfer darnau o god sydd
 wirioneddol angen mwy o esboniad neu eglurhad.
 
-
+---
 
 # 2. 'Docstrings'
 
@@ -127,7 +137,7 @@ Neu yn well:
 >>> help(f)
 {% endhighlight %}
 
-
+---
 
 # 3. Enwau newidynnau a ffwythiannau
 
@@ -181,9 +191,17 @@ ffactorau potensial ac ychwanegu'r ffactorau go iawn i mewn i restr o ffactorau.
 Mae dewis enwau newidynnau a ffwythiannau sy'n ystyrlon yn gallu trawsnewid cod
 amwys i mewn i ddogfen ddealladwy.
 
+---
 
 # Cyfeiriadau
 
 + "Research software development", Vincent Knight,
 
   [https://vknight.org/rsd/](https://vknight.org/rsd/)
+
+<table align='center'>
+<tr>
+    <td><a href="/06-codio/">&#x23EA; Blaenorol</a></td>
+    <td><a href="/08-modiwlareiddio/">Nesaf &#x23E9;</a></td>
+</tr>
+</table>
