@@ -79,6 +79,16 @@ Bydd y cwrs yma yn edrych ar y pynciau canlynol:
 
 ---
 
+# Meddalwedd
+
+Ar gyfer y cwrs hwn bydd angen y meddalwedd canlynol:
+
++ Anaconda: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
++ Git: [https://git-scm.com/](https://git-scm.com/)
++ LaTeX (awgrymmwn ni MikTex: [https://docs.miktex.org/](https://docs.miktex.org/))
+
+---
+
 # Cyfeiriadau
 
 + "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions", Fabien C. Y. Benureau ac Nicolas P. Rougier,

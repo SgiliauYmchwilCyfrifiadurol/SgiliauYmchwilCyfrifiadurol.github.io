@@ -47,7 +47,11 @@ newidiodd.
 
 ### (Bydd ond angen gwneud hwn unwaith)
 
+
 Cyn dechrau mae cwpl o bethau mae rhaid i ni wneud i osod Git.
+Lawrlwythwch Git a'i osod ar eich cyfrifiadur, trwy dilyn cyfawryddiadau
+fan hyn: [https://git-scm.com/](https://git-scm.com/).
+
 Cofiwch fod Git yn cadw trac o holl hanes prosiect, gan gynnwys pwy wnaeth y
 newidiadau (sy'n bwysig iawn ar gyfer prosiectau cydweithredol).
 Felly rhaid dweud wrth Git pwy ydyn ni.

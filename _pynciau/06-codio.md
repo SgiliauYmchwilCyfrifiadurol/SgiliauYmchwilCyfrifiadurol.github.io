@@ -50,7 +50,8 @@ Python.
 
 ## 1. Defnyddio'r dehonglydd Python
 
-Agorwch y 'Command Line' neu'r 'Command Prompt', a theipiwch:
+Agorwch y 'Command Line' neu'r 'Command Prompt' (ar Windows defnyddiwch
+'Anaconda Prompt' sy'n dod gyda Anaconda), a theipiwch:
 
 {% highlight bash %}
 python
