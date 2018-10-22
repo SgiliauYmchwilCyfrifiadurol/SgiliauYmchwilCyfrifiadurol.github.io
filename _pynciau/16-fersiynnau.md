@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 16. Ysgrifennu Meddalwedd - Fersiynnau
+title: 16. Ysgrifennu Meddalwedd - Fersiynau
 permalink: 16-fersiynnau/
 ---
 
@@ -12,16 +12,16 @@ permalink: 16-fersiynnau/
 </table>
 <br>
 
-Mae nodi pa fersiwn o meddalwedd a ddefnyddiwyd mewn darn o waith yn hollbwysig
+Mae nodi pa fersiwn o feddalwedd a ddefnyddiwyd mewn darn o waith yn hollbwysig
 ar gyfer ailgynhyrchadwyedd.
-Gall canlyniadau a generadwyd gan fersiwn henach new mewy newydd o'r un
-meddalwedd bod yn wahanol, a gall y methodoleg (cystrawen y cod a ysgrifenwyd)
+Gall canlyniadau a generadwyd gan fersiwn henach neu mwy newydd o'r un
+meddalwedd bod yn wahanol, a gall y methodoleg (cystrawen y cod a ysgrifennwyd)
 newid o fersiwn i fersiwn.
 
 Rhaid ystyried hyn wrth ysgrifennu meddalwedd:
 
-+ Nodwn rhif ferswin y meddallwedd yn glir o fewn y meddalwedd ei hun, yn y
-dogfennaeth, ac ar unrhyw storfa lle ellir lawrlwytho'r meddalwedd.
++ Nodwn rhif ferswn y meddalwedd yn glir o fewn y meddalwedd ei hun, yn y
+ddogfennaeth, ac ar unrhyw storfa lle gellir lawrlwytho'r meddalwedd.
 + Gwnewn yn siŵr bod pob un hen fersiwn o'r meddalwedd ar gael yn hawdd.
 + Nodwn yn ofalus y gwahaniaethau rhwng pob fersiwn mewn dogfen sydd ar gael o
 fewn y meddalwedd ac hefyd yn y dogfennaeth.
